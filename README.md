@@ -5,7 +5,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/ptdede/" rel="noreferrer" target="_blank" aria-label="linkedin website">
-    <img src="./github-github-assets/linkedin.svg" />
+    <img src="./github-assets/linkedin.svg" />
   </a>
 
   <a href="tel:+6282111112365" rel="noreferrer" target="_blank" aria-label="call dede">
