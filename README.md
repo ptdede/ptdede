@@ -5,15 +5,15 @@
 
 <p>
   <a href="https://www.linkedin.com/in/ptdede/" rel="noreferrer" target="_blank" aria-label="linkedin website">
-    <img src="./github-assets/linkedin.svg"/>
+    <img src="./github-assets/social-linkedin.svg"/>
   </a>
 
   <a href="tel:+6282111112365" rel="noreferrer" target="_blank" aria-label="call dede">
-    <img src="./github-assets/whatsapp.svg"/>
+    <img src="./github-assets/social-whatsapp.svg"/>
   </a>
 
   <a href="https://twitter.com/ptdede" rel="noreferrer" target="_blank" aria-label="twitter website">
-    <img src="./github-assets/twitter.svg"/>
+    <img src="./github-assets/social-twitter.svg"/>
   </a>
 </p>
 
