@@ -4,16 +4,16 @@
 <p>Passionate personality in the modern tech world. Always open to exploring new ideas. Has great communication skills, respect for others and a great listener. Experienced in fullstack development, Mobile development and Server Management. Really appreciate well designed things.</p>
 
 <p>
-  <a href="https://www.linkedin.com/in/ptdede/" rel="noreferrer" target="_blank" aria-label="linkedin website">
-    <img src="./github-assets/social-linkedin.svg"/>
+  <a href="https://ptdede.me" rel="noreferrer" target="_blank" aria-label="call dede">
+    <img style="background:white;border-radius:6px;" src="./github-assets/social-web.svg"/>
   </a>
 
-  <a href="tel:+6282111112365" rel="noreferrer" target="_blank" aria-label="call dede">
-    <img src="./github-assets/social-whatsapp.svg"/>
+  <a href="https://www.linkedin.com/in/ptdede/" rel="noreferrer" target="_blank" aria-label="linkedin website">
+    <img style="background:white;border-radius:6px;" src="./github-assets/social-linkedin.svg"/>
   </a>
 
   <a href="https://twitter.com/ptdede" rel="noreferrer" target="_blank" aria-label="twitter website">
-    <img src="./github-assets/social-twitter.svg"/>
+    <img style="background:white;border-radius:6px;" src="./github-assets/social-twitter.svg"/>
   </a>
 </p>
 
