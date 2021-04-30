@@ -12,7 +12,7 @@
     <img src="./github-assets/whatsapp.svg"/>
   </a>
 
-  <a href="[tel:+6282111112365](https://twitter.com/ptdede)" rel="noreferrer" target="_blank" aria-label="twitter website">
+  <a href="https://twitter.com/ptdede" rel="noreferrer" target="_blank" aria-label="twitter website">
     <img src="./github-assets/twitter.svg"/>
   </a>
 </p>
