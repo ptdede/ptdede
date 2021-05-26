@@ -1,7 +1,7 @@
 <h1>Hi, I am <span style="color:rgb(210, 164, 82);">Dede Adhyatmika</span></h1>
 
 <p>Currently working as Web Platform Engineer @ <a href="https://www.tokopedia.com/" target="_blank">Tokopedia</a></p>
-<p>Passionate personality in the modern tech world. Always open to exploring new ideas. Has great communication skills, respect for others and a great listener. Experienced in fullstack development and mobile development. Really appreciate well designed things.</p>
+<p>Passionate personality in the modern tech world. Always open to exploring new ideas. Has great communication skills, respect for others and a great listener. Experienced in fullstack and mobile development. Really appreciate well designed things.</p>
 
 <p>
   <a href="https://ptdede.me" rel="noreferrer" target="_blank" aria-label="call dede">
